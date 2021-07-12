@@ -1,6 +1,14 @@
 body{
     font-size: 1.3rem;
 }
+body{
+    overflow: scroll;
+overflow-x: hidden;
+}
+::-webkit-scrollbar {
+width: 0px; 
+}
+
 header img.img-fluid{
     height: 8vh !important;
 }
