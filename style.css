@@ -13,7 +13,7 @@ header img.img-fluid{
     height: 8vh !important;
 }
 .border-bottom{
-    border-color: black !important;
+    border-color: rgb(170, 16, 16) !important;
 }
 .col-12{
     background-color: #ece8e8d7;
