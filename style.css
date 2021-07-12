@@ -9,6 +9,7 @@ header img.img-fluid{
 }
 .btn{
     background-color: rgb(170, 16, 16);
+    border: black;
 }
 .btn:hover{
     background-color: orange;
