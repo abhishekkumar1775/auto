@@ -28,7 +28,19 @@ header img.img-fluid{
 .carousel-indicators [data-bs-target]{
     background-color: orange !important;
 }
+
+/* --------------map------------------- */
+.map{
+    height: 40vh;
+}
 .map > iframe{
     width: 100vw ;
-    height: 50vh;
+    height: 40vh;
+}
+
+
+/* ------------Footer--------------- */
+footer{
+    background-color: rgb(170, 16, 16) ;
+    color: white;
 }
