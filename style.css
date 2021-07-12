@@ -1,0 +1,15 @@
+body{
+    font-size: 1.3rem;
+}
+header img.img-fluid{
+    height: 8vh !important;
+}
+.col-12{
+    background-color: #ece8e8d7;
+}
+.btn{
+    background-color: rgb(170, 16, 16);
+}
+.btn:hover{
+    background-color: orange;
+}
