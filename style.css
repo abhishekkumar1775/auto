@@ -25,3 +25,10 @@ header img.img-fluid{
 .btn:hover{
     background-color: orange;
 }
+.carousel-indicators [data-bs-target]{
+    background-color: orange !important;
+}
+.map > iframe{
+    width: 100vw ;
+    height: 50vh;
+}
